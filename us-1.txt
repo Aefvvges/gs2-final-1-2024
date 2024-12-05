@@ -1,0 +1,5 @@
+Requisitos funcionales:
+Por ejemplo contar con una base de datos para guardar todos los datos.
+
+Requisitos no funcionales:
+Que la app/página funcione con mayor velocidad.

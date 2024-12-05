@@ -1,0 +1,1 @@
+Los casos de uso son más específicos y técnicos, en cambio las historias de usuario son más informales y sin terminos técnicos.

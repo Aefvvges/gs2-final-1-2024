@@ -1,0 +1,15 @@
+El proceso de SCRUM es un proceso en el cual se desarrolla software en base a la metodlogía Agile, siendo este un framework de esa metodlogía.
+Los actores que participan en este proceso son el:
+-Product Owner
+-Scrum Master
+-Scrum Team
+-Stakeholders
+Los artefactos utilizados son el 
+-Backlog (Donde se divide a gran escala el proyecto)
+-Sprint (Donde se trabaja con una parte del Backlog en mayor profundidad)
+Las ceremonias
+-Daily meeting
+-Planing meeting
+-Sprint Review
+-Retrospectiva
+-Refinamiento
